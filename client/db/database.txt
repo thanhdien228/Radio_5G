@@ -1,0 +1,5 @@
+/cpuinfo char "i5-12th"
+/radioType char "nokia"
+/ramMemory u32 "16383"
+/directXVersion s32 "12"
+/price u32 "1999"
